@@ -1,0 +1,25 @@
+{
+  "Home": {
+    "title": "TianJiGe",
+    "subtitle": "AI Fortune Platform",
+    "description": "Ancient wisdom meets modern AI"
+  },
+  "Navigation": {
+    "fortune": "Fortune Analysis",
+    "artifacts": "Artifacts",
+    "master": "Chat Master"
+  },
+  "Fortune": {
+    "title": "Bazi Analysis",
+    "year": "Year",
+    "month": "Month",
+    "day": "Day",
+    "hour": "Hour",
+    "analyze": "Analyze",
+    "analyzing": "Analyzing...",
+    "result": "Analysis Result",
+    "mainElement": "Main Element",
+    "weakElement": "Weak Element",
+    "suggestion": "Suggestion"
+  }
+}

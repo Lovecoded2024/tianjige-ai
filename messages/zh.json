@@ -1,0 +1,25 @@
+{
+  "Home": {
+    "title": "天机阁",
+    "subtitle": "AI命理平台",
+    "description": "融合五千年智慧与现代AI科技"
+  },
+  "Navigation": {
+    "fortune": "八字分析",
+    "artifacts": "法器推荐",
+    "master": "大师对话"
+  },
+  "Fortune": {
+    "title": "八字分析",
+    "year": "年",
+    "month": "月",
+    "day": "日",
+    "hour": "时",
+    "analyze": "开始分析",
+    "analyzing": "分析中...",
+    "result": "分析结果",
+    "mainElement": "主用神",
+    "weakElement": "忌神",
+    "suggestion": "建议"
+  }
+}

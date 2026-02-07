@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Next.js \u9879\u76ee\u521d\u59cb\u5316",
+    "description": "\u521b\u5efa Next.js 14 \u9879\u76ee\u7ed3\u6784",
+    "status": "completed",
+    "model": "minimax/MiniMax-M2.1",
+    "estimated_time": 5,
+    "retries": 1,
+    "max_retries": 3,
+    "error": "",
+    "result": "Next.js \u9879\u76ee\u5df2\u521d\u59cb\u5316\u6210\u529f",
+    "created_at": "2026-02-07T21:25:00.000000",
+    "completed_at": "2026-02-07T21:30:00.000000"
+  },
+  {
+    "id": 2,
+    "name": "\u914d\u7f6e Tailwind CSS",
+    "description": "\u914d\u7f6e Design System \u548c Tailwind \u52a8\u753b",
+    "status": "completed",
+    "model": "minimax/MiniMax-M2.1",
+    "estimated_time": 5,
+    "retries": 0,
+    "max_retries": 3,
+    "error": "",
+    "result": "Tailwind CSS Design System \u914d\u7f6e\u5b8c\u6210",
+    "created_at": "2026-02-07T21:25:00.000000",
+    "completed_at": "2026-02-07T21:36:00.000000"
+  },
+  {
+    "id": 3,
+    "name": "\u914d\u7f6e\u56fd\u9645\u5316",
+    "description": "\u914d\u7f6e next-intl \u591a\u8bed\u8a00\u652f\u6301",
+    "status": "completed",
+    "model": "minimax/MiniMax-M2.1",
+    "estimated_time": 10,
+    "retries": 0,
+    "max_retries": 3,
+    "error": "",
+    "result": "next-intl \u56fd\u9645\u5316\u914d\u7f6e\u5b8c\u6210",
+    "created_at": "2026-02-07T21:25:00.000000",
+    "completed_at": "2026-02-07T21:40:00.000000"
+  },
+  {
+    "id": 4,
+    "name": "\u5b9e\u73b0\u9996\u9875",
+    "description": "\u521b\u5efa\u9996\u9875\u548c\u5bfc\u822a\u7ec4\u4ef6",
+    "status": "completed",
+    "model": "openrouter/anthropic/claude-opus-4-20240506",
+    "estimated_time": 15,
+    "retries": 0,
+    "max_retries": 3,
+    "error": "",
+    "result": "\u9996\u9875\u548c\u516b\u5b57\u5206\u6790\u9875\u9762\u5b9e\u73b0\u5b8c\u6210",
+    "created_at": "2026-02-07T21:25:00.000000",
+    "completed_at": "2026-02-07T21:42:00.000000"
+  },
+  {
+    "id": 99,
+    "name": "\u90e8\u7f72\u4e0a\u7ebf",
+    "description": "\u90e8\u7f72\u5230 Vercel",
+    "status": "completed",
+    "model": "minimax/MiniMax-M2.1",
+    "estimated_time": 5,
+    "retries": 0,
+    "max_retries": 3,
+    "error": "",
+    "result": "\u9879\u76ee\u6784\u5efa\u6210\u529f! 4\u79cd\u8bed\u8a00\u7248\u672c\u5df2\u9884\u6e32\u67d3",
+    "created_at": "2026-02-07T21:25:00.000000",
+    "completed_at": "2026-02-07T22:02:00.000000"
+  }
+]
